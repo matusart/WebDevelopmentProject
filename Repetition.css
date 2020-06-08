@@ -1,0 +1,12 @@
+#container{
+
+    display: flex;
+}
+
+.square{
+
+    height: 100px;
+    width: 50%;
+    border: 1px solid blue;
+
+}
