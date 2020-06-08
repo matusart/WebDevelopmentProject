@@ -1,12 +1,12 @@
-#container{
+/* #container{
 
-    display: flex;
-}
+    /* display: flex; } 
+} */
 
-.square{
+div{
 
     height: 100px;
     width: 50%;
     border: 1px solid blue;
-    float:left;
+    float: left;
 }
